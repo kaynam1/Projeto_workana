@@ -1,4 +1,3 @@
-import random
 
 class Servico_Funcao:
     contador_id = 1  # Inicializa o contador de ID
