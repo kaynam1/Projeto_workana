@@ -9,3 +9,11 @@ Manipulado_Entrada.adicionar_funcionarios_terminal(construtor)
 empresa = construtor.obter_empresa()
 empresa.gerar_relatorio()
 
+"""
+adicionar_funcionarios_termial
+adicionar_equipamentos_termial
+adicionar_despesas_termial
+    adicionar uma verificação por tipo de despesas 
+
+
+"""

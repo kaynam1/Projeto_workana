@@ -8,4 +8,3 @@ class Funcionario:
 
     def adicionar_despesa(self, despesa):
         self.despesas.append(despesa)
-        
