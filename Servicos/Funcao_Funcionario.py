@@ -1,5 +1,5 @@
 
-class Servico_Funcao:
+class Funcao_Funcionario:
     contador_id = 1  # Inicializa o contador de ID
 
     def __init__(self):
@@ -30,7 +30,7 @@ class Servico_Funcao:
             ultimo_id = self.lista_funcoes[-1]['id']
             novo_id = ultimo_id + 1
         else:
-            novo_id = Servico_Funcao.contador_id
+            novo_id = Funcao_Funcionario.contador_id
 
         self.lista_funcoes.append({
             'id': novo_id,
